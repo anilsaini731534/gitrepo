@@ -1,0 +1,5 @@
+#!/bin/bash
+ hero = rancho
+ villian = virus
+ echo " 3 idiots ka hero hai $hero"
+ echo "3 idiots ka villian hai $villian"
