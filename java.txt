@@ -1,0 +1,13 @@
+
+
+a thread goes through diffrent state during excution 
+
+1 new : thread is created but not started 
+
+2: runable : ready to run and waiting for cpu time 
+
+3: running : thread ids currently excuting on the cpu 
+4: block : is paused bcz it is waiting for a resourcees or another thread.
+
+5: terminated : thread has finished its work or stopped and cannot run again.
+
